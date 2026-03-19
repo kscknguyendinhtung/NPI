@@ -1,0 +1,7 @@
+{
+  "name": "Project Insight Pro (Vercel Optimized)",
+  "description": "AI-powered project management dashboard optimized for Vercel and Vite, featuring dynamic Gantt charts and Excel integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
